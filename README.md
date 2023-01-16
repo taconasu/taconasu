@@ -13,8 +13,8 @@
 [github-readme-stats/readme_ja.md at master · anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_ja.md)
 -->
 <div style="display: flex; flex-wrap: nowrap;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=taconasu&theme=dracula" />
-  <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taconasu&layout=compact&theme=dracula" />
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api?username=taconasu&theme=dracula" />
+  <img align="center" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taconasu&layout=compact&theme=dracula" />
 </div>
 
 <!--
